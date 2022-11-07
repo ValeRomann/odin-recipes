@@ -1,0 +1,22 @@
+html {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 244, 239);
+}
+
+img {
+    max-width: 600px;
+}
+
+.img {
+    max-height: 40vh;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: black;
+}
